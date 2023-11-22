@@ -1,5 +1,5 @@
 export ckpt_dir="../../checkpoints/pretrain/"
-export dataroot="../../example_dataset/"
+export dataroot="../../data_h5py/patients/pretrain"
 export name="pr_long_rep"
 export n_epochs=20
 export n_epochs_decay=200
@@ -7,7 +7,7 @@ export ortho=100
 export var=0.001
 export cov=0.001
 
-export crop_size=32
+export crop_size=96
 export bs=1
 
 python  ../mains/train.py \
@@ -17,15 +17,15 @@ python  ../mains/train.py \
        --dataset_mode longitudinalh5 \
        --model longrep \
        --ndims 3 \
-       --input_nc 1 \
-       --output_nc 33 \
+       --input_nc 4 \
+       --output_nc 2 \
        --ngf 16 \
        --freeze_bn False \
        --netF simsiam_mlp_sample \
        --n_mlps 3 \
        --lambda_seg 0 \
        --lambda_cseg 0 \
-       --num_threads 1 \
+       --num_threads 0 \
        --lr 2e-4 \
        --print_freq 100 \
        --display_ncols 2 \

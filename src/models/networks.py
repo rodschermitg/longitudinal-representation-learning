@@ -250,6 +250,10 @@ class UnetGeneratorExpand(nn.Module):
         self.model = nn.Sequential(*model)
 
     def forward(self, input, layers=[], encode_only=False, verbose=False):
+        if not self.training:
+            input = input.cpu()
+        self.to(input.device)
+
         if -1 in layers:
             layers.append(len(self.model))
         if len(layers) > 0:
@@ -369,6 +373,9 @@ class SingleConv(nn.Module):
         self.model = nn.Sequential(*self.model)
 
     def forward(self, x):
+        if not self.training:
+            x = x.cpu()
+        self.to(x.device)
         return self.model(x)
 
 
@@ -517,6 +524,7 @@ class SimSiamPatchSampleF(nn.Module):
     def forward(self, feats, num_patches=64, patch_ids=None, mask=None, verbose=False):
         return_ids = []
         return_feats = []
+        self.to(feats[0].device)
 
         if verbose:
             print(f'Net F forward pass: # features: {len(feats)}')
@@ -552,8 +560,10 @@ class SimSiamPatchSampleF(nn.Module):
                     fg_coords = torch.where(mask_i > 0)
                     if ndims == 3:
                         (_,_, fg_x, fg_y, fg_z) = fg_coords
+                        fg_x, fg_y, fg_z = fg_x.to(feats[0].device), fg_y.to(feats[0].device), fg_z.to(feats[0].device)
                     elif ndims == 2:
                         (_,_, fg_x, fg_y) = fg_coords
+                        fg_x, fg_y = fg_x.to(feats[0].device), fg_y.to(feats[0].device)
                     else:
                         raise NotImplementedError
 

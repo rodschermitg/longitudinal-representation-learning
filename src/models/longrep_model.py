@@ -460,6 +460,7 @@ class LongRepModel(BaseModel):
         return self.loss_G
 
     def calculate_recon_loss(self):
+        self.recon_trg = self.recon_trg.to(self.recs.device)
         return self.criterionRec(self.recs, self.recon_trg)
 
     def calculate_Sim_loss(self, feat_kq, mask=None, step=-1, vis=False):

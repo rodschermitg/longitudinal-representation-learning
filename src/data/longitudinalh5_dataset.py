@@ -146,11 +146,11 @@ class Longitudinalh5Dataset(BaseDataset):
             if self.load_recon:
                 img_keys += ['A_trg','B_trg']
 
-            A_orig = normalize_img(self.hf[subj]['t1'][i], percentile=self.percentile, zero_centered=self.zero_centered)[None, ...]
+            A_orig = normalize_img(self.hf[subj]['t1'][i], percentile=self.percentile, zero_centered=self.zero_centered)[None, ...].squeeze(0)
             return_dict['A_age'] = process_age(self.hf[subj]['age'][i].astype(np.float32))
             return_dict['A_id'] = np.asarray([item])  # dummy variable that contains the subject id
 
-            B_orig = normalize_img(self.hf[subj]['t1'][j], percentile=self.percentile, zero_centered=self.zero_centered)[None, ...]
+            B_orig = normalize_img(self.hf[subj]['t1'][j], percentile=self.percentile, zero_centered=self.zero_centered)[None, ...].squeeze(0)
             return_dict['B_age'] = process_age(self.hf[subj]['age'][j].astype(np.float32))
             return_dict['meta'] = '%s_%.1f_%.1f'%(subj, self.hf[subj]['age'][i], self.hf[subj]['age'][j])
             return_dict['B_id'] = np.asarray([item])  # dummy variable that contains the subject id
@@ -204,10 +204,10 @@ class Longitudinalh5Dataset(BaseDataset):
                     return_dict['A_trg'] = A_orig
                     return_dict['B_trg'] = B_orig
 
-                if self.load_mask:
-                    img_keys = ['A', 'B', 'A_mask', 'B_mask']
-                    return_dict['A_mask'] = self.hf[subj]['mask'][i][None,...]
-                    return_dict['B_mask'] = self.hf[subj]['mask'][j][None,...]
+                # if self.load_mask:
+                #     img_keys = ['A', 'B', 'A_mask', 'B_mask']
+                #     return_dict['A_mask'] = self.hf[subj]['mask'][i][None,...]
+                #     return_dict['B_mask'] = self.hf[subj]['mask'][j][None,...]
 
         elif self.mode == 'single_seg' : # for training
             img_keys = ['A', 'A_seg']

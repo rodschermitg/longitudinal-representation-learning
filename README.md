@@ -1,3 +1,23 @@
+*Note from Roger:* Ensure that the pretraining subjects are located in the correct `train`/`val` directories:
+
+    .
+    ├── data
+    |   ├── processed
+    |   |   ├── patients
+    |   |   |   ├── pretrain
+    |   |   |   |   ├── train
+    |   |   |   |   |   ├── <train_subject_id>
+    |   |   |   |   |   ...
+    |   |   |   |   └── val
+    |   |   |   |   |   ├── <val_subject_id>
+    |   |   |   |   |   ...
+    |   |   |   ...
+    |   |   ...
+    |   ...
+   
+
+Take a look at [`data/processed/patients/pretrain/dataset.json`](data/processed/patients/pretrain/dataset.json) to see which subjects were used for validation.
+
 # Longitudinal Representation Learning
 Reference implementation of "*Local Spatiotemporal Representation Learning for Longitudinally-consistent Neuroimage Analysis*", to appear, NeurIPS 22 (oral).
 

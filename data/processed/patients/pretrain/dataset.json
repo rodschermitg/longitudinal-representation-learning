@@ -1,0 +1,2006 @@
+{
+    "train": [
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100001/100001_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100001/100001_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100001/100001_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100001/100001_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100001/100001_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100001/100001_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100001/100001_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100001/100001_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100002/100002_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100002/100002_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100002/100002_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100002/100002_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100002/100002_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100002/100002_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100002/100002_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100002/100002_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100003/100003_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100003/100003_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100003/100003_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100003/100003_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100003/100003_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100003/100003_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100003/100003_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100003/100003_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100004/100004_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100004/100004_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100004/100004_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100004/100004_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100004/100004_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100004/100004_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100004/100004_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100004/100004_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100005/100005_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100005/100005_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100005/100005_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100005/100005_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100005/100005_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100005/100005_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100005/100005_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100005/100005_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100006/100006_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100006/100006_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100006/100006_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100006/100006_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100006/100006_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100006/100006_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100006/100006_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100006/100006_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100007/100007_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100007/100007_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100007/100007_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100007/100007_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100007/100007_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100007/100007_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100007/100007_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100007/100007_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100008/100008_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100008/100008_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100008/100008_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100008/100008_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100008/100008_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100008/100008_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100008/100008_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100008/100008_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100009/100009_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100009/100009_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100009/100009_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100009/100009_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100009/100009_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100009/100009_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100009/100009_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100009/100009_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100010/100010_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100010/100010_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100010/100010_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100010/100010_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100010/100010_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100010/100010_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100010/100010_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100010/100010_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100011/100011_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100011/100011_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100011/100011_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100011/100011_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100011/100011_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100011/100011_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100011/100011_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100011/100011_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100012/100012_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100012/100012_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100012/100012_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100012/100012_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100012/100012_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100012/100012_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100012/100012_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100012/100012_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100013/100013_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100013/100013_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100013/100013_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100013/100013_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100013/100013_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100013/100013_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100013/100013_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100013/100013_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100015/100015_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100015/100015_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100015/100015_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100015/100015_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100015/100015_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100015/100015_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100015/100015_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100015/100015_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100016/100016_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100016/100016_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100016/100016_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100016/100016_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100016/100016_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100016/100016_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100016/100016_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100016/100016_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100017/100017_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100017/100017_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100017/100017_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100017/100017_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100017/100017_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100017/100017_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100017/100017_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100017/100017_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100018/100018_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100018/100018_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100018/100018_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100018/100018_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100018/100018_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100018/100018_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100018/100018_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100018/100018_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100019/100019_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100019/100019_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100019/100019_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100019/100019_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100019/100019_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100019/100019_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100019/100019_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100019/100019_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100020/100020_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100020/100020_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100020/100020_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100020/100020_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100020/100020_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100020/100020_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100020/100020_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100020/100020_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100021/100021_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100021/100021_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100021/100021_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100021/100021_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100021/100021_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100021/100021_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100021/100021_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100021/100021_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100022/100022_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100022/100022_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100022/100022_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100022/100022_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100022/100022_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100022/100022_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100022/100022_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100022/100022_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100023/100023_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100023/100023_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100023/100023_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100023/100023_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100023/100023_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100023/100023_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100023/100023_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100023/100023_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100024/100024_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100024/100024_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100024/100024_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100024/100024_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100024/100024_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100024/100024_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100024/100024_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100024/100024_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100025/100025_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100025/100025_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100025/100025_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100025/100025_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100025/100025_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100025/100025_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100025/100025_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100025/100025_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100026/100026_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100026/100026_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100026/100026_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100026/100026_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100026/100026_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100026/100026_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100026/100026_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100026/100026_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100027/100027_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100027/100027_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100027/100027_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100027/100027_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100027/100027_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100027/100027_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100027/100027_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100027/100027_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100028/100028_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100028/100028_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100028/100028_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100028/100028_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100028/100028_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100028/100028_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100028/100028_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100028/100028_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100029/100029_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100029/100029_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100029/100029_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100029/100029_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100029/100029_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100029/100029_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100029/100029_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100029/100029_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100030/100030_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100030/100030_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100030/100030_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100030/100030_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100030/100030_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100030/100030_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100030/100030_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100030/100030_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100031/100031_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100031/100031_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100031/100031_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100031/100031_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100031/100031_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100031/100031_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100031/100031_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100031/100031_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100032/100032_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100032/100032_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100032/100032_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100032/100032_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100032/100032_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100032/100032_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100032/100032_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100032/100032_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100033/100033_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100033/100033_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100033/100033_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100033/100033_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100033/100033_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100033/100033_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100033/100033_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100033/100033_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100034/100034_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100034/100034_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100034/100034_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100034/100034_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100034/100034_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100034/100034_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100034/100034_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100034/100034_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100035/100035_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100035/100035_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100035/100035_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100035/100035_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100035/100035_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100035/100035_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100035/100035_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100035/100035_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100036/100036_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100036/100036_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100036/100036_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100036/100036_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100036/100036_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100036/100036_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100036/100036_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100036/100036_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100037/100037_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100037/100037_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100037/100037_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100037/100037_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100037/100037_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100037/100037_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100037/100037_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100037/100037_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100039/100039_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100039/100039_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100039/100039_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100039/100039_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100039/100039_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100039/100039_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100039/100039_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100039/100039_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100040/100040_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100040/100040_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100040/100040_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100040/100040_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100040/100040_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100040/100040_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100040/100040_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100040/100040_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100041/100041_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100041/100041_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100041/100041_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100041/100041_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100041/100041_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100041/100041_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100041/100041_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100041/100041_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100042/100042_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100042/100042_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100042/100042_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100042/100042_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100042/100042_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100042/100042_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100042/100042_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100042/100042_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100043/100043_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100043/100043_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100043/100043_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100043/100043_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100043/100043_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100043/100043_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100043/100043_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100043/100043_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100044/100044_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100044/100044_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100044/100044_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100044/100044_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100044/100044_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100044/100044_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100044/100044_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100044/100044_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100045/100045_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100045/100045_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100045/100045_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100045/100045_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100045/100045_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100045/100045_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100045/100045_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100045/100045_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100046/100046_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100046/100046_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100046/100046_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100046/100046_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100046/100046_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100046/100046_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100046/100046_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100046/100046_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100047/100047_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100047/100047_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100047/100047_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100047/100047_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100047/100047_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100047/100047_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100047/100047_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100047/100047_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100048/100048_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100048/100048_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100048/100048_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100048/100048_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100048/100048_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100048/100048_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100048/100048_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100048/100048_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100049/100049_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100049/100049_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100049/100049_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100049/100049_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100049/100049_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100049/100049_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100049/100049_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100049/100049_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100050/100050_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100050/100050_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100050/100050_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100050/100050_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100050/100050_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100050/100050_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100050/100050_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100050/100050_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100051/100051_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100051/100051_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100051/100051_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100051/100051_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100051/100051_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100051/100051_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100051/100051_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100051/100051_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100052/100052_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100052/100052_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100052/100052_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100052/100052_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100052/100052_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100052/100052_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100052/100052_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100052/100052_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100053/100053_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100053/100053_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100053/100053_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100053/100053_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100053/100053_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100053/100053_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100053/100053_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100053/100053_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100054/100054_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100054/100054_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100054/100054_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100054/100054_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100054/100054_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100054/100054_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100054/100054_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100054/100054_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100055/100055_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100055/100055_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100055/100055_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100055/100055_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100055/100055_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100055/100055_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100055/100055_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100055/100055_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100056/100056_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100056/100056_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100056/100056_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100056/100056_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100056/100056_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100056/100056_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100056/100056_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100056/100056_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100057/100057_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100057/100057_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100057/100057_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100057/100057_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100057/100057_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100057/100057_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100057/100057_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100057/100057_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100059/100059_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100059/100059_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100059/100059_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100059/100059_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100059/100059_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100059/100059_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100059/100059_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100059/100059_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100060/100060_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100060/100060_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100060/100060_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100060/100060_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100060/100060_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100060/100060_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100060/100060_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100060/100060_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100061/100061_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100061/100061_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100061/100061_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100061/100061_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100061/100061_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100061/100061_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100061/100061_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100061/100061_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100062/100062_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100062/100062_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100062/100062_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100062/100062_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100062/100062_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100062/100062_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100062/100062_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100062/100062_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100063/100063_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100063/100063_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100063/100063_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100063/100063_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100063/100063_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100063/100063_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100063/100063_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100063/100063_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100064/100064_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100064/100064_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100064/100064_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100064/100064_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100064/100064_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100064/100064_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100064/100064_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100064/100064_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100065/100065_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100065/100065_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100065/100065_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100065/100065_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100065/100065_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100065/100065_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100065/100065_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100065/100065_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100066/100066_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100066/100066_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100066/100066_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100066/100066_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100066/100066_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100066/100066_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100066/100066_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100066/100066_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100067/100067_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100067/100067_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100067/100067_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100067/100067_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100067/100067_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100067/100067_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100067/100067_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100067/100067_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100068/100068_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100068/100068_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100068/100068_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100068/100068_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100068/100068_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100068/100068_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100068/100068_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100068/100068_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100069/100069_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100069/100069_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100069/100069_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100069/100069_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100069/100069_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100069/100069_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100069/100069_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100069/100069_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100070/100070_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100070/100070_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100070/100070_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100070/100070_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100070/100070_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100070/100070_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100070/100070_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100070/100070_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100072/100072_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100072/100072_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100072/100072_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100072/100072_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100072/100072_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100072/100072_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100072/100072_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100072/100072_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100073/100073_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100073/100073_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100073/100073_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100073/100073_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100073/100073_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100073/100073_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100073/100073_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100073/100073_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100074/100074_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100074/100074_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100074/100074_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100074/100074_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100074/100074_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100074/100074_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100074/100074_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100074/100074_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100075/100075_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100075/100075_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100075/100075_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100075/100075_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100075/100075_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100075/100075_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100075/100075_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100075/100075_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100076/100076_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100076/100076_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100076/100076_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100076/100076_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100076/100076_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100076/100076_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100076/100076_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100076/100076_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100077/100077_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100077/100077_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100077/100077_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100077/100077_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100077/100077_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100077/100077_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100077/100077_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100077/100077_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100078/100078_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100078/100078_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100078/100078_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100078/100078_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100078/100078_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100078/100078_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100078/100078_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100078/100078_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100079/100079_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100079/100079_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100079/100079_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100079/100079_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100079/100079_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100079/100079_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100079/100079_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100079/100079_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100080/100080_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100080/100080_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100080/100080_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100080/100080_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100080/100080_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100080/100080_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100080/100080_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100080/100080_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100081/100081_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100081/100081_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100081/100081_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100081/100081_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100081/100081_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100081/100081_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100081/100081_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100081/100081_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100082/100082_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100082/100082_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100082/100082_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100082/100082_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100082/100082_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100082/100082_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100082/100082_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100082/100082_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100083/100083_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100083/100083_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100083/100083_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100083/100083_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100083/100083_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100083/100083_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100083/100083_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100083/100083_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100084/100084_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100084/100084_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100084/100084_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100084/100084_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100084/100084_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100084/100084_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100084/100084_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100084/100084_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100085/100085_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100085/100085_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100085/100085_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100085/100085_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100085/100085_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100085/100085_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100085/100085_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100085/100085_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100086/100086_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100086/100086_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100086/100086_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100086/100086_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100086/100086_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100086/100086_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100086/100086_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100086/100086_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100087/100087_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100087/100087_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100087/100087_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100087/100087_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100087/100087_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100087/100087_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100087/100087_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100087/100087_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100088/100088_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100088/100088_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100088/100088_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100088/100088_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100088/100088_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100088/100088_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100088/100088_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100088/100088_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100089/100089_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100089/100089_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100089/100089_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100089/100089_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100089/100089_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100089/100089_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100089/100089_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100089/100089_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100090/100090_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100090/100090_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100090/100090_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100090/100090_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100090/100090_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100090/100090_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100090/100090_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100090/100090_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100092/100092_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100092/100092_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100092/100092_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100092/100092_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100092/100092_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100092/100092_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100092/100092_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100092/100092_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100093/100093_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100093/100093_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100093/100093_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100093/100093_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100093/100093_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100093/100093_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100093/100093_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100093/100093_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100094/100094_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100094/100094_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100094/100094_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100094/100094_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100094/100094_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100094/100094_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100094/100094_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100094/100094_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100095/100095_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100095/100095_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100095/100095_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100095/100095_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100095/100095_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100095/100095_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100095/100095_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100095/100095_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100096/100096_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100096/100096_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100096/100096_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100096/100096_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100096/100096_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100096/100096_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100096/100096_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100096/100096_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100097/100097_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100097/100097_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100097/100097_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100097/100097_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100097/100097_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100097/100097_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100097/100097_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100097/100097_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100098/100098_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100098/100098_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100098/100098_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100098/100098_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100098/100098_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100098/100098_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100098/100098_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100098/100098_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100099/100099_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100099/100099_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100099/100099_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100099/100099_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100099/100099_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100099/100099_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100099/100099_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100099/100099_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100100/100100_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100100/100100_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100100/100100_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100100/100100_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100100/100100_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100100/100100_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100100/100100_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100100/100100_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100102/100102_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100102/100102_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100102/100102_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100102/100102_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100102/100102_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100102/100102_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100102/100102_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100102/100102_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100103/100103_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100103/100103_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100103/100103_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100103/100103_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100103/100103_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100103/100103_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100103/100103_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100103/100103_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100104/100104_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100104/100104_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100104/100104_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100104/100104_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100104/100104_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100104/100104_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100104/100104_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100104/100104_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100105/100105_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100105/100105_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100105/100105_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100105/100105_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100105/100105_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100105/100105_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100105/100105_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100105/100105_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100106/100106_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100106/100106_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100106/100106_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100106/100106_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100106/100106_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100106/100106_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100106/100106_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100106/100106_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100107/100107_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100107/100107_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100107/100107_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100107/100107_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100107/100107_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100107/100107_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100107/100107_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100107/100107_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100108/100108_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100108/100108_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100108/100108_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100108/100108_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100108/100108_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100108/100108_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100108/100108_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100108/100108_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100109/100109_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100109/100109_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100109/100109_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100109/100109_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100109/100109_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100109/100109_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100109/100109_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100109/100109_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100110/100110_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100110/100110_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100110/100110_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100110/100110_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100110/100110_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100110/100110_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100110/100110_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100110/100110_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100111/100111_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100111/100111_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100111/100111_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100111/100111_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100111/100111_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100111/100111_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100111/100111_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100111/100111_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100112/100112_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100112/100112_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100112/100112_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100112/100112_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100112/100112_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100112/100112_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100112/100112_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100112/100112_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100113/100113_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100113/100113_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100113/100113_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100113/100113_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100113/100113_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100113/100113_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100113/100113_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100113/100113_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100114/100114_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100114/100114_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100114/100114_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100114/100114_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100114/100114_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100114/100114_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100114/100114_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100114/100114_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100115/100115_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100115/100115_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100115/100115_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100115/100115_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100115/100115_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100115/100115_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100115/100115_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100115/100115_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100116/100116_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100116/100116_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100116/100116_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100116/100116_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100116/100116_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100116/100116_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100116/100116_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100116/100116_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100117/100117_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100117/100117_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100117/100117_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100117/100117_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100117/100117_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100117/100117_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100117/100117_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100117/100117_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100118/100118_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100118/100118_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100118/100118_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100118/100118_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100118/100118_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100118/100118_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100118/100118_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100118/100118_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100120/100120_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100120/100120_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100120/100120_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100120/100120_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100120/100120_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100120/100120_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100120/100120_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100120/100120_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100121/100121_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100121/100121_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100121/100121_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100121/100121_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100121/100121_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100121/100121_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100121/100121_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100121/100121_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100122/100122_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100122/100122_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100122/100122_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100122/100122_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100122/100122_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100122/100122_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100122/100122_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100122/100122_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100123/100123_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100123/100123_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100123/100123_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100123/100123_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100123/100123_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100123/100123_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100123/100123_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100123/100123_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100125/100125_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100125/100125_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100125/100125_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100125/100125_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100125/100125_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100125/100125_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100125/100125_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100125/100125_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100126/100126_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100126/100126_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100126/100126_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100126/100126_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100126/100126_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100126/100126_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100126/100126_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100126/100126_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100127/100127_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100127/100127_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100127/100127_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100127/100127_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100127/100127_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100127/100127_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100127/100127_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100127/100127_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100128/100128_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100128/100128_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100128/100128_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100128/100128_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100128/100128_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100128/100128_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100128/100128_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100128/100128_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100129/100129_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100129/100129_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100129/100129_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100129/100129_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100129/100129_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100129/100129_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100129/100129_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100129/100129_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100130/100130_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100130/100130_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100130/100130_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100130/100130_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100130/100130_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100130/100130_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100130/100130_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100130/100130_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100131/100131_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100131/100131_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100131/100131_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100131/100131_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100131/100131_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100131/100131_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100131/100131_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100131/100131_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100132/100132_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100132/100132_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100132/100132_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100132/100132_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100132/100132_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100132/100132_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100132/100132_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100132/100132_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100133/100133_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100133/100133_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100133/100133_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100133/100133_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100133/100133_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100133/100133_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100133/100133_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100133/100133_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100134/100134_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100134/100134_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100134/100134_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100134/100134_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100134/100134_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100134/100134_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100134/100134_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100134/100134_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100135/100135_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100135/100135_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100135/100135_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100135/100135_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100135/100135_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100135/100135_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100135/100135_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100135/100135_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100136/100136_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100136/100136_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100136/100136_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100136/100136_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100136/100136_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100136/100136_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100136/100136_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100136/100136_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100137/100137_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100137/100137_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100137/100137_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100137/100137_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100137/100137_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100137/100137_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100137/100137_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100137/100137_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100138/100138_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100138/100138_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100138/100138_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100138/100138_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100138/100138_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100138/100138_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100138/100138_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100138/100138_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100139/100139_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100139/100139_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100139/100139_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100139/100139_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100139/100139_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100139/100139_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100139/100139_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100139/100139_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100140/100140_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100140/100140_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100140/100140_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100140/100140_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100140/100140_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100140/100140_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100140/100140_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100140/100140_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100141/100141_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100141/100141_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100141/100141_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100141/100141_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100141/100141_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100141/100141_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100141/100141_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100141/100141_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100142/100142_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100142/100142_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100142/100142_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100142/100142_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100142/100142_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100142/100142_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100142/100142_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100142/100142_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100143/100143_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100143/100143_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100143/100143_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100143/100143_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100143/100143_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100143/100143_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100143/100143_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100143/100143_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100144/100144_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100144/100144_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100144/100144_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100144/100144_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100144/100144_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100144/100144_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100144/100144_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100144/100144_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100145/100145_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100145/100145_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100145/100145_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100145/100145_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100145/100145_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100145/100145_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100145/100145_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100145/100145_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100147/100147_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100147/100147_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100147/100147_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100147/100147_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100147/100147_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100147/100147_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100147/100147_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100147/100147_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100148/100148_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100148/100148_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100148/100148_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100148/100148_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100148/100148_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100148/100148_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100148/100148_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100148/100148_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100149/100149_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100149/100149_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100149/100149_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100149/100149_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100149/100149_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100149/100149_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100149/100149_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100149/100149_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100150/100150_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100150/100150_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100150/100150_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100150/100150_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100150/100150_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100150/100150_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100150/100150_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100150/100150_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100151/100151_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100151/100151_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100151/100151_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100151/100151_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100151/100151_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100151/100151_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100151/100151_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100151/100151_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100153/100153_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100153/100153_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100153/100153_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100153/100153_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100153/100153_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100153/100153_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100153/100153_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100153/100153_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100155/100155_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100155/100155_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100155/100155_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100155/100155_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100155/100155_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100155/100155_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100155/100155_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100155/100155_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100156/100156_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100156/100156_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100156/100156_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100156/100156_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100156/100156_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100156/100156_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100156/100156_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100156/100156_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100157/100157_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100157/100157_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100157/100157_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100157/100157_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100157/100157_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100157/100157_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100157/100157_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100157/100157_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100158/100158_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100158/100158_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100158/100158_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100158/100158_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100158/100158_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100158/100158_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100158/100158_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100158/100158_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100160/100160_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100160/100160_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100160/100160_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100160/100160_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100160/100160_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100160/100160_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100160/100160_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100160/100160_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100161/100161_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100161/100161_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100161/100161_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100161/100161_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100161/100161_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100161/100161_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100161/100161_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100161/100161_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100162/100162_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100162/100162_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100162/100162_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100162/100162_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100162/100162_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100162/100162_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100162/100162_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100162/100162_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100163/100163_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100163/100163_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100163/100163_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100163/100163_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100163/100163_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100163/100163_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100163/100163_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100163/100163_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100164/100164_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100164/100164_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100164/100164_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100164/100164_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100164/100164_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100164/100164_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100164/100164_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100164/100164_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100165/100165_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100165/100165_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100165/100165_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100165/100165_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100165/100165_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100165/100165_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100165/100165_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100165/100165_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100166/100166_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100166/100166_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100166/100166_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100166/100166_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100166/100166_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100166/100166_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100166/100166_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100166/100166_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100167/100167_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100167/100167_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100167/100167_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100167/100167_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100167/100167_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100167/100167_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100167/100167_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100167/100167_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100168/100168_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100168/100168_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100168/100168_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100168/100168_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100168/100168_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100168/100168_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100168/100168_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100168/100168_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100169/100169_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100169/100169_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100169/100169_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100169/100169_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100169/100169_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100169/100169_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100169/100169_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100169/100169_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100170/100170_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100170/100170_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100170/100170_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100170/100170_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100170/100170_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100170/100170_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100170/100170_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100170/100170_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100171/100171_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100171/100171_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100171/100171_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100171/100171_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100171/100171_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100171/100171_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100171/100171_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100171/100171_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100172/100172_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100172/100172_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100172/100172_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100172/100172_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100172/100172_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100172/100172_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100172/100172_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100172/100172_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100174/100174_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100174/100174_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100174/100174_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100174/100174_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100174/100174_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100174/100174_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100174/100174_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100174/100174_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100175/100175_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100175/100175_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100175/100175_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100175/100175_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100175/100175_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100175/100175_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100175/100175_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100175/100175_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100176/100176_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100176/100176_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100176/100176_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100176/100176_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100176/100176_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100176/100176_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100176/100176_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100176/100176_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100177/100177_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100177/100177_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100177/100177_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100177/100177_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100177/100177_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100177/100177_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100177/100177_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100177/100177_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100178/100178_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100178/100178_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100178/100178_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100178/100178_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100178/100178_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100178/100178_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100178/100178_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100178/100178_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100179/100179_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100179/100179_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100179/100179_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100179/100179_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100179/100179_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100179/100179_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100179/100179_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100179/100179_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100180/100180_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100180/100180_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100180/100180_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100180/100180_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100180/100180_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100180/100180_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100180/100180_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100180/100180_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100181/100181_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100181/100181_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100181/100181_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100181/100181_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100181/100181_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100181/100181_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100181/100181_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100181/100181_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100182/100182_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100182/100182_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100182/100182_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100182/100182_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100182/100182_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100182/100182_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100182/100182_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100182/100182_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100183/100183_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100183/100183_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100183/100183_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100183/100183_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100183/100183_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100183/100183_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100183/100183_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100183/100183_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100184/100184_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100184/100184_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100184/100184_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100184/100184_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100184/100184_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100184/100184_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100184/100184_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100184/100184_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100185/100185_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100185/100185_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100185/100185_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100185/100185_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100185/100185_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100185/100185_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100185/100185_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100185/100185_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100186/100186_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100186/100186_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100186/100186_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100186/100186_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100186/100186_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100186/100186_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100186/100186_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100186/100186_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100187/100187_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100187/100187_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100187/100187_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100187/100187_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100187/100187_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100187/100187_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100187/100187_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100187/100187_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100188/100188_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100188/100188_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100188/100188_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100188/100188_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100188/100188_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100188/100188_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100188/100188_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100188/100188_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100189/100189_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100189/100189_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100189/100189_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100189/100189_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100189/100189_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100189/100189_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100189/100189_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100189/100189_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100190/100190_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100190/100190_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100190/100190_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100190/100190_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100190/100190_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100190/100190_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100190/100190_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100190/100190_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100191/100191_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100191/100191_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100191/100191_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100191/100191_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100191/100191_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100191/100191_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100191/100191_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100191/100191_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100192/100192_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100192/100192_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100192/100192_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100192/100192_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100192/100192_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100192/100192_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100192/100192_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100192/100192_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100193/100193_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100193/100193_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100193/100193_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100193/100193_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100193/100193_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100193/100193_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100193/100193_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100193/100193_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100194/100194_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100194/100194_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100194/100194_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100194/100194_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100194/100194_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100194/100194_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100194/100194_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100194/100194_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100195/100195_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100195/100195_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100195/100195_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100195/100195_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100195/100195_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100195/100195_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100195/100195_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100195/100195_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100196/100196_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100196/100196_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100196/100196_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100196/100196_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100196/100196_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100196/100196_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100196/100196_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100196/100196_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100197/100197_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100197/100197_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100197/100197_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100197/100197_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100197/100197_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100197/100197_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100197/100197_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100197/100197_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100198/100198_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100198/100198_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100198/100198_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100198/100198_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100198/100198_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100198/100198_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100198/100198_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100198/100198_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100199/100199_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100199/100199_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100199/100199_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100199/100199_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100199/100199_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100199/100199_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100199/100199_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100199/100199_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100200/100200_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100200/100200_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100200/100200_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100200/100200_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100200/100200_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100200/100200_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100200/100200_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100200/100200_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100201/100201_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100201/100201_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100201/100201_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100201/100201_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100201/100201_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100201/100201_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100201/100201_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100201/100201_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100202/100202_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100202/100202_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100202/100202_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100202/100202_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100202/100202_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100202/100202_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100202/100202_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100202/100202_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/train/100203/100203_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/train/100203/100203_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/train/100203/100203_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/train/100203/100203_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/train/100203/100203_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/train/100203/100203_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/train/100203/100203_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/train/100203/100203_time2_t2.nii.gz"
+        }
+    ],
+    "val": [
+        {
+            "t1ce_1": "data/processed/patients/pretrain/val/100014/100014_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/val/100014/100014_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/val/100014/100014_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/val/100014/100014_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/val/100014/100014_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/val/100014/100014_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/val/100014/100014_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/val/100014/100014_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/val/100038/100038_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/val/100038/100038_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/val/100038/100038_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/val/100038/100038_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/val/100038/100038_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/val/100038/100038_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/val/100038/100038_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/val/100038/100038_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/val/100058/100058_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/val/100058/100058_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/val/100058/100058_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/val/100058/100058_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/val/100058/100058_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/val/100058/100058_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/val/100058/100058_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/val/100058/100058_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/val/100101/100101_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/val/100101/100101_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/val/100101/100101_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/val/100101/100101_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/val/100101/100101_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/val/100101/100101_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/val/100101/100101_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/val/100101/100101_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/val/100119/100119_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/val/100119/100119_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/val/100119/100119_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/val/100119/100119_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/val/100119/100119_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/val/100119/100119_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/val/100119/100119_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/val/100119/100119_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/val/100124/100124_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/val/100124/100124_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/val/100124/100124_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/val/100124/100124_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/val/100124/100124_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/val/100124/100124_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/val/100124/100124_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/val/100124/100124_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/val/100146/100146_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/val/100146/100146_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/val/100146/100146_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/val/100146/100146_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/val/100146/100146_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/val/100146/100146_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/val/100146/100146_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/val/100146/100146_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/val/100152/100152_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/val/100152/100152_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/val/100152/100152_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/val/100152/100152_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/val/100152/100152_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/val/100152/100152_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/val/100152/100152_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/val/100152/100152_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/val/100154/100154_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/val/100154/100154_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/val/100154/100154_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/val/100154/100154_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/val/100154/100154_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/val/100154/100154_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/val/100154/100154_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/val/100154/100154_time2_t2.nii.gz"
+        },
+        {
+            "t1ce_1": "data/processed/patients/pretrain/val/100173/100173_time1_t1ce.nii.gz",
+            "flair_1": "data/processed/patients/pretrain/val/100173/100173_time1_flair.nii.gz",
+            "t1_1": "data/processed/patients/pretrain/val/100173/100173_time1_t1.nii.gz",
+            "t2_1": "data/processed/patients/pretrain/val/100173/100173_time1_t2.nii.gz",
+            "t1ce_2": "data/processed/patients/pretrain/val/100173/100173_time2_t1ce.nii.gz",
+            "flair_2": "data/processed/patients/pretrain/val/100173/100173_time2_flair.nii.gz",
+            "t1_2": "data/processed/patients/pretrain/val/100173/100173_time2_t1.nii.gz",
+            "t2_2": "data/processed/patients/pretrain/val/100173/100173_time2_t2.nii.gz"
+        }
+    ]
+}
